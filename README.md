@@ -21,6 +21,12 @@ Pull data from eBird API for a specified region, map taxonomy to IUCN database, 
 
 🚧 Planning
 
+## Community
+
+Join the discussion:
+
+[![Matrix](https://img.shields.io/badge/Matrix-%23ebird-iucn-synthesizer-black?logo=matrix)](https://matrix.to/#/#ebird-iucn-synthesizer:matrix.org)
+
 ## License
 
 MIT — see [LICENSE](LICENSE)
